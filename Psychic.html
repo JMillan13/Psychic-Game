@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Psychic Game</title>
 </head>
+
 <body>
 
 	<div id="game">
@@ -41,7 +42,7 @@
 
 
 
-			if (options.indexOf(userGuess) > -1) {
+		  	if (options.indexOf(userGuess) > -1) {
 
 				if (userGuess === computerGuess) {
 					wins++;
@@ -51,7 +52,7 @@
 
 				if (userGuess != computerGuess) {
 					numGuesses --;
-					guessChoices.push(userGuess);
+          guessChoices.push(userGuess);
 				}
 
 				if (numGuesses === 0) {
