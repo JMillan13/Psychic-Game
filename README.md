@@ -24,3 +24,4 @@ When the player loses, increase the Losses counter and restart the game without 
 
 
 
+![image](https://user-images.githubusercontent.com/46582302/65398145-9c0c0b00-dd83-11e9-9c02-0bf33a200a1f.png)
