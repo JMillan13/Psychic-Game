@@ -1,7 +1,7 @@
 https://jmillan13.github.io/Psychic-Game/
 # Psychic-Game
 
-In this assignment, I will a create computer Psychic-Game. This app will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
+I will a create computer Psychic-Game. This app will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
 
 Psychic Game
