@@ -1,3 +1,4 @@
+https://jmillan13.github.io/Psychic-Game/
 # Psychic-Game
 
 In this assignment, I will a create computer Psychic-Game. This app will run in the browser, and feature dynamically updated HTML and CSS powered by your JavaScript code.
@@ -20,4 +21,6 @@ Your Guesses So Far: (the specific letters that the user typed. Display these un
 When the player wins, increase the Wins counter and start the game over again (without refreshing the page).
 
 When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
+
+
 
