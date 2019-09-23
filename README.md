@@ -8,7 +8,7 @@ Psychic Game
 
 I'm going to make a game. Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:
 
-Guess what letter I'm thinking of
+Guess what letter I'm thinking of?
 
 Wins: (# of times the user has guessed the letter correctly)
 
